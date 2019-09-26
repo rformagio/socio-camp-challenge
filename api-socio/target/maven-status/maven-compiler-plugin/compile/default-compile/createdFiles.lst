@@ -1,0 +1,15 @@
+br\com\rformagio\socio\client\fallback\CampanhaFallback.class
+br\com\rformagio\socio\data\TimeData$TimeDataBuilder.class
+br\com\rformagio\socio\domain\Socio.class
+br\com\rformagio\socio\exception\BusinessException.class
+br\com\rformagio\socio\client\CampanhaClient.class
+br\com\rformagio\socio\service\SocioService.class
+br\com\rformagio\socio\data\CampanhaData.class
+br\com\rformagio\socio\data\SocioData$SocioDataBuilder.class
+br\com\rformagio\socio\SocioApplication.class
+br\com\rformagio\socio\data\CampanhaData$CampanhaDataBuilder.class
+br\com\rformagio\socio\persistence\SocioRepository.class
+br\com\rformagio\socio\SwaggerConfiguration.class
+br\com\rformagio\socio\controller\SocioController.class
+br\com\rformagio\socio\data\SocioData.class
+br\com\rformagio\socio\data\TimeData.class

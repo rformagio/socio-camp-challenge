@@ -1,0 +1,6 @@
+br\com\rformagio\campanha\mock\TimeMock.class
+br\com\rformagio\campanha\controller\CampanhaControllerTest.class
+br\com\rformagio\campanha\controller\TimeControllerTest.class
+br\com\rformagio\campanha\mock\CampanhaMock.class
+br\com\rformagio\campanha\CampanhaApplicationTest.class
+br\com\rformagio\campanha\controller\SocioCampanhaControllerTest.class

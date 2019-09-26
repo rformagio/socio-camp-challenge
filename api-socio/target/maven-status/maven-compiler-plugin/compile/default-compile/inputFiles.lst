@@ -1,0 +1,12 @@
+D:\devtools\home\rodrigo\projects\microsservicos\api-socio\src\main\java\br\com\rformagio\socio\data\SocioData.java
+D:\devtools\home\rodrigo\projects\microsservicos\api-socio\src\main\java\br\com\rformagio\socio\data\TimeData.java
+D:\devtools\home\rodrigo\projects\microsservicos\api-socio\src\main\java\br\com\rformagio\socio\controller\SocioController.java
+D:\devtools\home\rodrigo\projects\microsservicos\api-socio\src\main\java\br\com\rformagio\socio\client\CampanhaClient.java
+D:\devtools\home\rodrigo\projects\microsservicos\api-socio\src\main\java\br\com\rformagio\socio\exception\BusinessException.java
+D:\devtools\home\rodrigo\projects\microsservicos\api-socio\src\main\java\br\com\rformagio\socio\persistence\SocioRepository.java
+D:\devtools\home\rodrigo\projects\microsservicos\api-socio\src\main\java\br\com\rformagio\socio\SocioApplication.java
+D:\devtools\home\rodrigo\projects\microsservicos\api-socio\src\main\java\br\com\rformagio\socio\client\fallback\CampanhaFallback.java
+D:\devtools\home\rodrigo\projects\microsservicos\api-socio\src\main\java\br\com\rformagio\socio\data\CampanhaData.java
+D:\devtools\home\rodrigo\projects\microsservicos\api-socio\src\main\java\br\com\rformagio\socio\service\SocioService.java
+D:\devtools\home\rodrigo\projects\microsservicos\api-socio\src\main\java\br\com\rformagio\socio\domain\Socio.java
+D:\devtools\home\rodrigo\projects\microsservicos\api-socio\src\main\java\br\com\rformagio\socio\SwaggerConfiguration.java
